@@ -1,0 +1,26 @@
+body {
+    background-color: blanchedalmond;
+    color: magenta;
+    font-size: 24px;
+}
+
+
+main {
+    width: 69%;
+    margin: 0 auto;
+    font-family: pacifico;
+    font-size: xx-large;
+
+}
+
+
+
+.chapter{
+    background-color: maroon;
+}
+/* bodyclass="undreadable"> */
+.unreadable{
+    background-image: url(https://www.google.se/url?sa=i&source=images&cd=&ved=2ahUKEwig6fyI2rnkAhXooIsKHf8HC8YQjRx6BAgBEAQ&url=https%3A%2F%2Fwww.discogs.com%2FStrebers-Kaos-Skr%25C3%25A5l-85-87%2Frelease%2F737161&psig=AOvVaw2t3oU9WxqSldAUzIKPrIld&ust=1567773639437526);  
+    background-position: center;
+    background-size: cover;
+}
